@@ -57,4 +57,8 @@ de_ret     = rotor.process_line(ret,encripted=True)    ## additional parameter a
 de_pb_str  = pb_obj.exchange_plugged_chars(de_ret)     ## changed Plugged characters
 ```
 
+## output would be: 
+Input String      : Sanjeev Tyagi
+Plugboard String  : sonjeev byogl
+Output String     : nkkhdew dbslr
 
