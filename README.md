@@ -21,7 +21,7 @@ There are three classes written for different functionalities
 - Rotor
 
 #### Plugboard 
-To incorporate the features of the Enigma machine's electric plugboard, the Plugboard class was developed. You must create a simple file in the **plug_board folder** with naming standards such as the index of **input character** and the index of **output character** from the plugboard in order to enable a plug for any character. The input character appears as single charater only in the first line of that file.
+To incorporate the features of the Enigma machine's electric plugboard, the Plugboard class was developed. You must create a simple file in the **pair_plug folder** with naming standards such as the index of **input character** and the index of **output character** from the plugboard in order to enable a plug for any character. The input character appears as single charater only in the first line of that file.
 The encryption and decryption operations both utilize this file.
 ##### Example 
 If a user want that alphabet "a" would be changed to "s" then the file name would be 119 (index of "a" is one and index of "s" is 19), and "a" would appear as a single character in the file's first line. 
