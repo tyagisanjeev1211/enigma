@@ -58,6 +58,6 @@ de_pb_str  = pb_obj.exchange_plugged_chars(de_ret)     ## changed Plugged charac
 ```
 
 ## output would be: 
-Input String      : Sanjeev Tyagi
-Plugboard String  : sonjeev byogl
+Input String      : Sanjeev Tyagi__
+Plugboard String  : sonjeev byogl__
 Output String     : nkkhdew dbslr
